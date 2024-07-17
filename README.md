@@ -1,8 +1,25 @@
-# React + Vite
+# iTask - Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+iTask is a simple Todo App built with React, allowing users to add, edit, and delete todos. The app also features a checkbox to mark todos as completed and an option to show or hide finished todos.
 
-Currently, two official plugins are available:
+## Features
+- Add new todos
+- Edit existing todos
+- Delete todos
+- Mark todos as completed
+- Show or hide finished todos
+- Local storage to save todos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+
+### Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/iTask.git
+
+## Technologies Used
+- React
+- JavaScript
+- CSS
+- Local Storage
